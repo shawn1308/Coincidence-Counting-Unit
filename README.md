@@ -18,3 +18,11 @@ This is the RTL Design of our system:
 Final Product : 
 
 ![alt text](https://github.com/shawn1308/Coincidence-Counting-Unit/blob/main/Images/bti.jpg)
+
+Git Structure : 
+
+> Photon_VHDL_CODE : All source code <br />
+> GUI : Python interface made with PyQt <br />
+> FPGA_V_FINAL_for_CMOD_A7.Zip : Project made for CMOD A7 35t <br />
+> V3_PROJET_for_BASYS3.zip : Project Made for BASYS 3 <br />
+> FPGA_Final_Gerber_33V.zip : gerber files for PCB making <br />
