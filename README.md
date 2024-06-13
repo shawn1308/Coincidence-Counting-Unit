@@ -15,3 +15,6 @@ This is the RTL Design of our system:
 
 ![alt text](https://github.com/shawn1308/Coincidence-Counting-Unit/blob/main/Images/full_rtl.png)
 
+Final Product : 
+
+![alt text](https://github.com/shawn1308/Coincidence-Counting-Unit/blob/main/Images/bti.jpg)
